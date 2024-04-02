@@ -1,5 +1,5 @@
 package object_class;
-//은행계좌 클래스 만들기11111(ex:신한은행)//
+//은행계좌 클래스 만들기111111(ex:신한은행)//
 public class Account {//AccountDay0318 객체//
       //멤버변수(필드) 클래스가 만들어지면서 객체를 저장할 변수 , 
 	  static final String BANKNAME="신한은행"; 
